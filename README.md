@@ -1,7 +1,7 @@
 # CD #1: Debut CD of 'Het Bilderbeek, Bilderbeek & Bogaart Bogaart Quartet'
 
-My first music CD, as a member of 'The Bilderbeek Bilderbeek & Bogaart Bogaart Quartet',
-recorded together with Geert van den Bogaart in 'Het Prinsentheater'.
+The debug album of 'The Bilderbeek Bilderbeek & Bogaart Bogaart Quartet',
+recorded in 'Het Prinsentheater'.
 
 ![BB&BBQ Cover Art](CD01_Coverart.png)
 
@@ -24,3 +24,7 @@ recorded together with Geert van den Bogaart in 'Het Prinsentheater'.
 10|Hendrik (vocaal)|[here](CD01_10Hendriklied.ogg)|[here](CD01_10Hendriklied.mp3)
 
 ![Wild fans at our first performance, at 21th of September 2000](FotoBBBBQbiopop.jpg)
+
+## External links
+
+ * [Richel Bilderbeek's music](https://github.com/richelbilderbeek/music)
