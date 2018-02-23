@@ -3,7 +3,7 @@
 My first music CD, as a member of 'The Bilderbeek Bilderbeek & Bogaart Bogaart Quartet',
 recorded together with Geert van den Bogaart in 'Het Prinsentheater'.
 
-![BB&BBQ Cover Art](CD01_Coverart.PNG)
+![BB&BBQ Cover Art](CD01_Coverart.png)
 
  * [Download the complete CD 'BB&BBQ' (zip)](CD01_All.zip)
  * [View the lyrics of the BB&BBQ debut album (doc)](BBBBQ.doc)
