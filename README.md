@@ -1,5 +1,9 @@
 # CD #1: Debut CD of 'Het Bilderbeek, Bilderbeek & Bogaart Bogaart Quartet'
 
+Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
+---|---
+master|[![Build Status](https://travis-ci.org/richelbilderbeek/Quartet.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Quartet)
+
 The debug album of 'The Bilderbeek Bilderbeek & Bogaart Bogaart Quartet',
 recorded in 'Het Prinsentheater'.
 
