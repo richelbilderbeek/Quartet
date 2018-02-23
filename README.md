@@ -6,7 +6,7 @@ recorded together with Geert van den Bogaart in 'Het Prinsentheater'.
 ![BB&BBQ Cover Art](CD01_Coverart.png)
 
  * [Download the complete CD 'BB&BBQ' (zip)](CD01_All.zip)
- * [View the lyrics of the BB&BBQ debut album (doc)](BBBBQ.doc)
+ * Download the booklet of the BB&BBQ debut album: [pdf](Quartet.pdf), [odt](Quartet.odt) 
 
 [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
 
