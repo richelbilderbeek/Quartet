@@ -24,7 +24,7 @@ recorded in 'Het Prinsentheater'.
 07|Het Koffielied (remix)|[here](CD01_07HetKoffieliedDisco.ogg)|[here](CD01_07HetKoffieliedDisco.mp3)
 08|Grote Gele Sinaasappel (remix)|[here](CD01_08GroteGeleSinaasappelDisco.ogg)|[here](CD01_08GroteGeleSinaasappelDisco.mp3)
 09|Ode Aan Masculiniteit (remix)|[here](CD01_09OdeAanMasculiniteitDisco.ogg)|[here](CD01_09OdeAanMasculiniteitDisco.mp3)
-10|Hendrik (vocaal)|[here](CD01_10Hendriklied.ogg)|[here](CD01_10Hendriklied.mp3)
+10|Hendrik (vocaal)|[here](CD01_10Hendrik.ogg)|[here](CD01_10Hendrik.mp3)
 
 ![Wild fans at our first performance, at 21th of September 2000](FotoBBBBQbiopop.jpg)
 
